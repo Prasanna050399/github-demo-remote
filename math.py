@@ -23,3 +23,8 @@ def square(x):      #from remote repo
     
 def new_function():
     return "New string"
+
+    
+def sq_root(x):
+    return x**0.5
+
