@@ -22,4 +22,4 @@ def square(x):
     pass
     
 def new_function():
-    return None
+    return "New string"
