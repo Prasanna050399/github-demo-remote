@@ -20,3 +20,6 @@ def div(x,y):
 #square implementation 
 def square(x):
     pass
+    
+def new_function():
+    return None
