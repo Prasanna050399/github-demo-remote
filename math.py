@@ -18,8 +18,8 @@ def div(x,y):
         return x/y
 
 #square implementation 
-def square(x):
-    pass
+def square(x):      #from remote repo
+    return x**2
     
 def new_function():
     return "New string"
